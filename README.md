@@ -1,6 +1,6 @@
 Concept Notes I made for the MITx Statistics & Data Science MicroMasters program
 
-You can use this for your capstone exam if you are taking the program
+You can directly upload the pdf I made for your capstone exams at the end of the program
 
 Including all key theorems, concepts, formulas for these 4 courses:
 * Probability - The Science of Uncertainty and Data
